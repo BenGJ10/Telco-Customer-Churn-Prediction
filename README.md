@@ -84,7 +84,7 @@ By integrating this predictive model into the customer lifecycle, businesses can
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 This project uses the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) from Kaggle. The dataset contains 7,043 customer records with 21 features including:
 
@@ -98,4 +98,5 @@ This project uses the [Telco Customer Churn dataset](https://www.kaggle.com/blas
 ## Contributions
 
 Feel free to fork this repository, raise issues, or suggest improvements. Collaboration is welcome!
+
 ---
